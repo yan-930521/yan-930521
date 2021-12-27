@@ -13,7 +13,7 @@ lastest work：<br>
 https://hackmd.io/@yan-0521/live2d-extension<br>
 
 - - -
-<p>
+<p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-930521&layout=compact">
 </p>
 <!--
