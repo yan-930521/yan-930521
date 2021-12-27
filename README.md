@@ -1,7 +1,7 @@
 # Self introduction<br>
 <br>
 夢想，是我邁向未來的原動力<br>
-- - -
+<br>
 暱稱：櫻2 <br>
 目前的學歷：高中<br>
 常用的語言：JS、C++、PY<br>
