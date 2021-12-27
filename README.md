@@ -13,7 +13,7 @@ lastest work：<br>
 https://hackmd.io/@yan-0521/live2d-extension<br>
 
 - - -
-![sakura](https://github.com/yan-930521/yan-930521/blob/main/github-metrics.svg)
+![sakura](https://metrics.lecoq.io/yan-930521)
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=yan-930521&show_icons=true&theme=radical">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-930521&layout=compact">
