@@ -1,7 +1,7 @@
 # Self introduction<br>
 <br>
 夢想，是我邁向未來的原動力<br>
-<br>
+- - -
 暱稱：櫻2 <br>
 目前的學歷：高中<br>
 常用的語言：JS、C++、PY<br>
@@ -12,6 +12,7 @@
 lastest work：<br>
 https://hackmd.io/@yan-0521/live2d-extension<br>
 
+- - -
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-930521&layout=compact">
 </p>
