@@ -12,6 +12,9 @@
 lastest work：<br>
 https://hackmd.io/@yan-0521/live2d-extension<br>
 
+<p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-930521&layout=compact">
+</p>
 <!--
 **yan-930521/yan-930521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
