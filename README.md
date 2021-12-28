@@ -1,7 +1,7 @@
 # Self introduction<br>
 <br>
-> *夢想，是我邁向未來的原動力*
-> *Dreams are my driving force towards the future*
+夢想，是我邁向未來的原動力
+Dreams are my driving force towards the future
 <br>
 暱稱 Nickname：櫻2<br>
 年齡 Age：17<br>
