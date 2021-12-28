@@ -9,12 +9,10 @@
 感興趣的領域：機器學習、語意辨識、網站開發、資安(CTF、...)、live2d、區塊鏈、discord bot、chrome extension......等<br>
 興趣：唱日文歌、寫小說、畫畫、看小說、看動漫、排球......等，還有打程式<br>
 <br>
-[lastest work](https://hackmd.io/@yan-0521/live2d-extension)
-<br>
-
 <img align="center" src="https://metrics.lecoq.io/yan-930521">
+<br>
+[lastest work](https://hackmd.io/@yan-0521/live2d-extension)<br>
 
-[lastest work](https://hackmd.io/@yan-0521/live2d-extension)
 [watch more](https://metrics.lecoq.io/about/yan-930521)
 <!--
 **yan-930521/yan-930521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
