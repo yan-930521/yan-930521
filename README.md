@@ -1,6 +1,6 @@
 # Self introduction<br>
 <br>
-夢想，是我邁向未來的原動力
+夢想，是我邁向未來的原動力<br>
 Dreams are my driving force towards the future
 <br>
 暱稱 Nickname：櫻2<br>
