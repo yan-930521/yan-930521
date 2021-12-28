@@ -3,7 +3,7 @@
 夢想，是我邁向未來的原動力<br>
 Dreams are my driving force towards the future
 <br>
-暱稱 Nickname：櫻2<br>
+暱稱 Nickname：櫻2、sakura<br>
 年齡 Age：17<br>
 常用的語言 Languages：JS、C++、PY<br>
 興趣：唱日文歌、寫小說、畫畫、看小說、看動漫、排球......等，還有打程式<br>
