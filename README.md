@@ -11,6 +11,11 @@ Dreams are my driving force towards the future
 感興趣的領域：機器學習、自然語言處理、網站開發、資安(CTF、...)、live2d、discord bot、chrome extension、區塊鏈......等<br>
 Interest in: machine learning, nlp, webstie, ctf, live2d, discord api, chrome extension, block chain, etc<br>
 
+Other projects are in replit :<br>
+https://replit.com/@sakuraEINFACH<br>
+https://replit.com/@yan930521<br>
+In the future, I will organize them to Github
+btw, sorry for my poor English, if my grammar is wrong, please tell me to modify them.
 <br>
 <img align="center" src="https://metrics.lecoq.io/yan-930521">
 
