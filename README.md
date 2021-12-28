@@ -1,13 +1,16 @@
 # Self introduction<br>
 <br>
 夢想，是我邁向未來的原動力<br>
+Dreams are my driving force towards the future<br>
 <br>
-暱稱：櫻2 <br>
-目前的學歷：高中<br>
-常用的語言：JS、C++、PY<br>
-目前致力於：學測<br>
-感興趣的領域：機器學習、語意辨識、網站開發、資安(CTF、...)、live2d、區塊鏈、discord bot、chrome extension......等<br>
+暱稱 Nickname：櫻2<br>
+年齡 Ade：17<br>
+常用的語言 Languages：JS、C++、PY<br>
 興趣：唱日文歌、寫小說、畫畫、看小說、看動漫、排球......等，還有打程式<br>
+
+感興趣的領域：機器學習、自然語言處理、網站開發、資安(CTF、...)、live2d、discord bot、chrome extension、區塊鏈......等<br>
+Interest in: machine learning, nlp, webstie, ctf, live2d, discord api, chrome extension, block chain, etc<br>
+
 <br>
 <img align="center" src="https://metrics.lecoq.io/yan-930521">
 
