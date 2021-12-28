@@ -14,15 +14,13 @@ Interest in: machine learning, nlp, webstie, ctf, live2d, discord api, chrome ex
 Other projects are in replit :<br>
 https://replit.com/@sakuraEINFACH<br>
 https://replit.com/@yan930521<br>
-In the future, I will organize them to Github
+In the future, I will organize them to Github.<br>
 btw, sorry for my poor English, if my grammar is wrong, please tell me to modify them.
 <br>
 <img align="center" src="https://metrics.lecoq.io/yan-930521">
 
 [lastest work](https://hackmd.io/@yan-0521/live2d-extension)
-
 <br>
-
 [watch more](https://metrics.lecoq.io/about/yan-930521)
 <!--
 **yan-930521/yan-930521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
