@@ -22,6 +22,14 @@ btw, sorry for my poor English, if my grammar is wrong, please tell me to modify
 [lastest work](https://hackmd.io/@yan-0521/live2d-extension)
 <br>
 [watch more](https://metrics.lecoq.io/about/yan-930521)
+
+- - -
+
+# Special thanks list
+
+## 感謝 hsiang 先生提供License方面的知識給我
+
+## 感謝 Hello Phone 幫助我取得 sakura-tw.tk
 <!--
 **yan-930521/yan-930521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
