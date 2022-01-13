@@ -1,4 +1,4 @@
-# Self introduction<br>
+# Self introduction <img src="https://komarev.com/ghpvc/?username=yan-930521&label=VIEWS&style=flat&color=5F9EA0"><br>
 <br>
 夢想，是我邁向未來的原動力<br>
 Dreams are my driving force towards the future
