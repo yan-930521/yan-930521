@@ -3,13 +3,19 @@
 夢想，是我邁向未來的原動力<br>
 Dreams are my driving force towards the future
 <br>
-暱稱 Nickname：櫻2、sakura<br>
-年齡 Age：17<br>
-常用的語言 Languages：JS、C++、PY<br>
-興趣：唱日文歌、寫小說、畫畫、看小說、看動漫、排球......等，還有打程式<br>
+暱稱：櫻2
+平時的興趣：唱日文歌、畫畫、小說、動漫、排球......等
+學習的語言：C++、Python、Javascript、Java、C#......
+學習的領域：
+- 人工智慧( 機器學習、強化學習、深度學習、語意辨識、...... )
+- discord bot、遊戲製作
+- 網站開發、資安(CTF、...)
+- Live2d
+- 區塊鏈
+- 物聯網
+- app開發( 桌面、手機 )
 
-感興趣的領域：機器學習、自然語言處理、網站開發、資安(CTF、...)、live2d、discord bot、chrome extension、區塊鏈......等<br>
-Interest in: machine learning, nlp, webstie, ctf, live2d, discord api, chrome extension, block chain, etc<br>
+---
 
 Other projects are in replit :<br>
 https://replit.com/@sakuraEINFACH<br>
