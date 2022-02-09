@@ -9,7 +9,7 @@ Dreams are my driving force towards the future<br>
 學習的領域：<br>
 - 人工智慧( 機器學習、強化學習、深度學習、語意辨識、...... )<br>
 - discord bot、遊戲製作<br>
-- 網站開發、資安(CTF、...)<br>
+- 網站開發、資安(CTF、...... )<br>
 - Live2d<br>
 - 區塊鏈<br>
 - 物聯網<br>
