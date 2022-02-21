@@ -26,7 +26,7 @@ btw, sorry for my poor English, if my grammar is wrong, please tell me to modify
 <img align="center" src="https://metrics.lecoq.io/yan-930521">
 
 <br>
-[watch more](https://metrics.lecoq.io/about/yan-930521)
+watch more https://metrics.lecoq.io/about/yan-930521
 <br>
 
 - - -
