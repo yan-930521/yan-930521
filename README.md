@@ -4,6 +4,7 @@
 Dreams are my driving force towards the future<br>
 <br>
 暱稱：櫻2<br>
+年齡：17.9<br>
 平時的興趣：唱日文歌、畫畫、小說、動漫、排球......等<br>
 接觸過的語言：Javascript(熟練)、C++、Python、Java、C#......<br>
 感興趣的的領域：<br>
@@ -14,7 +15,7 @@ Dreams are my driving force towards the future<br>
 - 區塊鏈<br>
 - 物聯網<br>
 - app開發( 桌面、手機 )<br>
-
+- chrome 擴充功能<br>
 
 ---
 
