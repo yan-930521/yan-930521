@@ -1,37 +1,72 @@
-# Self introduction <img src="https://komarev.com/ghpvc/?username=yan-930521&label=VIEWS&style=flat&color=5F9EA0"><br>
-<br>
-夢想，是我邁向未來的原動力<br>
-Dreams are my driving force towards the future<br>
-<br>
-暱稱：櫻2<br>
-年齡：18<br>
-平時的興趣：唱日文歌、畫畫、小說、動漫、排球......等<br>
-接觸過的語言：Javascript(熟練)、C++、Python、Java、C#......<br>
-感興趣的的領域：<br>
-- 人工智慧( 機器學習、強化學習、深度學習、語意辨識、...... )<br>
-- discord bot、minecraft bot、遊戲製作<br>
-- 網站開發、資安<br>
-- Live2d Web<br>
-- 區塊鏈<br>
-- 物聯網<br>
-- app開發( 桌面、手機 )<br>
-- chrome 擴充功能<br>
+# 櫻2
+###### tags: `夢想`
+<font color="#d89696">**夢想，是我邁向未來的原動力**</font>
+
+暱稱：櫻2
+年齡：18
+平時的興趣：唱日文歌、畫畫、小說、動漫、排球......等
+
+## Coding相關
+接觸過的語言：Javascript(node.js)(熟練)、typescript、C++、Python、Java、C#......
+感興趣的領域(有接觸的領域)：
+- 人工智慧( 機器學習、強化學習、深度學習、語意辨識、變化結構神經進化...... )
+- bot( discord bot、minecraft bot )
+- 網站開發、資安
+- Live2d Web SDK
+- 區塊鏈
+- 物聯網
+- app開發( window )
+- chrome 擴充功能
+- websocket、peer to peer
+- minecraft 插件
+
+歡迎委託我～
+=> https://hackmd.io/@yan-0521/Bkiun9Pec
+
+---
+### Recent Projects
+- live2d for desktop(多功能桌面精靈) (use electron.js)
+- core rpg、多功能discord bot (use discord.js)
+- 基於socket io、p2p的分散式多人網頁遊戲(仿agar io)
 
 ---
 
-Other projects are in replit :<br>
-https://replit.com/@sakuraEINFACH<br>
-https://replit.com/@yan930521<br>
-In the future, I will organize them to Github.<br>
-btw, sorry for my poor English, if my grammar is wrong, please tell me to modify them.<br>
-<br>
+GitHub：
+https://github.com/yan-930521
+https://github.com/core-tw
+（未來會陸續把以前寫的專案整理好傳上去）
+
+---
+
+Replit：
+https://replit.com/@yan930521
+https://replit.com/@sakuraEINFACH
+https://replit.com/@CoreTW
+https://replit.com/@KaririnO3O
+
+---
+
+### Goal
+
+希望能整合所學，打造出結合物聯網的人工智慧虛擬助理
+
+- UI或許會使用到Live2d技術來顯示
+- 以文字來進行交互，透過人工智慧來決策應該執行的任務
+- 訊息的傳輸要經過加密
+- 架構要具有高度的自由性，能輕易的追加功能
+- 人性化
+
+### 其他
+#### 備審
+之前做備審的學習樹(5千多觀看次數我真的怕爆)
+=> https://hackmd.io/@yan-0521/學習樹
+
+#### github profile
 <img align="center" src="https://metrics.lecoq.io/yan-930521">
 
-<br>
-watch more https://metrics.lecoq.io/about/yan-930521
-<br>
+[watch more](https://metrics.lecoq.io/about/yan-930521)
 
-- - -
+---
 
 #### Special thanks
 
