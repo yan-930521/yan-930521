@@ -1,4 +1,4 @@
-# 櫻2
+# 櫻2   <img src="https://komarev.com/ghpvc/?username=yan-930521&label=VIEWS&style=flat&color=5F9EA0"><br>
 ###### tags: `自介`
 
 <font color="#d89696">**夢想，是我邁向未來的原動力**</font><br>
