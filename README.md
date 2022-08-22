@@ -5,18 +5,18 @@
 `Dreams are my driving force towards the future`<br><br>
 暱稱：櫻2<br>
 年齡：18<br>
-平時的興趣：唱日文歌、畫畫、小說、動漫、排球......等<br>
+平時的興趣：日文歌、畫畫、小說、動漫、排球......等<br>
 
 ## Coding相關
 接觸過的語言：Javascript(node.js)(熟練)、typescript、C++、Python、Java、C#......<br>
 感興趣的領域(有接觸的領域)：
 - 人工智慧( 機器學習、強化學習、深度學習、語意辨識、變化結構神經進化...... )
 - bot( discord bot、minecraft bot )
-- 網站開發、資安
+- 網站開發、( 且對資安有興趣，但較少接觸 )
 - Live2d Web SDK
 - 區塊鏈
 - 物聯網
-- app開發( window )
+- app開發( windows )
 - chrome 擴充功能
 - websocket、peer to peer
 - minecraft 插件
