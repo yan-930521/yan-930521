@@ -4,16 +4,14 @@
 <font color="#d89696">**夢想，是我邁向未來的原動力**</font><br>
 `Dreams are my driving force towards the future`<br><br>
 18歲，就讀 台中教育大學 資訊工程學系<br>
-因家庭因素，僅能自學，<br>
-因此尚未參與過資訊工程相關的活動、競賽(APCS除外)<br>
-偶爾會接一些朋友，或他們介紹的案子
+偶爾會接一些朋友、或他們介紹的案子
 
 平時的興趣：唱日文歌、畫畫、小說、動漫、排球......等<br>
 <br>
 
 ## Coding相關
 接觸過的語言：<br>
-Javascript / node.js`熟練`、typescript、C++、Python、Java、C#`不太熟`......<br>
+Javascript / node.js`熟練`、typescript、C、C++、Python、Java、C#`不太熟`......<br>
 <br>
 感興趣的領域(有接觸的領域)：
 - 人工智慧 / 機器學習(強化學習、深度學習、語意辨識、變化結構神經進化...... )
@@ -27,15 +25,17 @@ Javascript / node.js`熟練`、typescript、C++、Python、Java、C#`不太熟`.
 - websocket、peer to peer
 - minecraft plugin
 
+目前正在研究transformer模型
+
 歡迎和我一起討論相關的技術<br>
 => DC: 櫻2#0915
 => IG: tw.sakura
 
 ---
 ### Recent Projects
-- live2d for desktop(多功能桌面精靈) (use electron.js)
-- core rpg、多功能discord bot (use discord.js)
-- 基於socket io、p2p的分散式多人網頁遊戲(仿agar io)，ai使用neat，變化結構神經進化
+- [live2d for desktop(多功能桌面精靈) (use electron.js)](https://github.com/yan-930521/live2dfordesktop)
+- [core rpg、多功能discord bot (use discord.js)](https://github.com/core-tw/core)
+- 基於socket io、p2p的分散式多人網頁遊戲(仿agar io)，ai使用[neat](https://github.com/wagenaartje/neataptic)，變化結構神經進化
 
 ---
 
