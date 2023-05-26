@@ -34,6 +34,7 @@ Javascript / node.js`熟練`、typescript、C、C++、Python、Java、C# ......<
 ---
 ### Recent Projects
 - 基於中文LlaMA的多功能人工智慧助理 - 櫻氏(嵌入在core bot內)
+- 3D vtuber驅動器(use three.js and electron.js)
 - [live2d for desktop(多功能桌面精靈) (use electron.js)](https://github.com/yan-930521/live2dfordesktop)
 - [core rpg、多功能discord bot (use discord.js)](https://github.com/core-tw/core)
 - 基於socket io、p2p的分散式多人網頁遊戲(仿agar io)，ai使用[neat](https://github.com/wagenaartje/neataptic)，變化結構神經進化
