@@ -11,10 +11,10 @@
 
 ## Coding相關
 接觸過的語言：<br>
-Javascript / node.js`熟練`、typescript、C、C++、Python、Java、C#`不太熟`......<br>
+Javascript / node.js`熟練`、typescript、C、C++、Python、Java、C# ......<br>
 <br>
 感興趣的領域(有接觸的領域)：
-- 人工智慧 / 機器學習(強化學習、深度學習、語意辨識、變化結構神經進化...... )
+- 人工智慧 / 機器學習(強化學習、深度學習、語意辨識、變化結構神經進化、Transformer...... )
 - bot( discord bot、minecraft bot )
 - 網站開發、資安
 - Live2d Web SDK
@@ -25,7 +25,7 @@ Javascript / node.js`熟練`、typescript、C、C++、Python、Java、C#`不太�
 - websocket、peer to peer
 - minecraft plugin
 
-目前正在研究transformer模型
+目前正在研究transformer、LLM LlaMA模型
 
 歡迎和我一起討論相關的技術<br>
 => DC: 櫻2#0915
@@ -33,6 +33,7 @@ Javascript / node.js`熟練`、typescript、C、C++、Python、Java、C#`不太�
 
 ---
 ### Recent Projects
+- 基於中文LlaMA的多功能人工智慧助理 - 櫻氏(嵌入在core bot內)
 - [live2d for desktop(多功能桌面精靈) (use electron.js)](https://github.com/yan-930521/live2dfordesktop)
 - [core rpg、多功能discord bot (use discord.js)](https://github.com/core-tw/core)
 - 基於socket io、p2p的分散式多人網頁遊戲(仿agar io)，ai使用[neat](https://github.com/wagenaartje/neataptic)，變化結構神經進化
@@ -66,7 +67,7 @@ Replit：
 
 ### 其他
 #### 備審/專案介紹
-之前做的備審(5千多觀看次數)<br>
+之前做的備審(5千多觀看次數OAO)<br>
 => https://hackmd.io/@yan-0521/學習樹
 
 #### github profile
