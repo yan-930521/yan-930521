@@ -34,7 +34,7 @@ Javascript / node.js、typescript、C、C++、Python、Java、C# ......<br>
 ---
 ### Recent Projects
 - [桌面助理 Assistant](https://github.com/yan-930521/Assistant)
-- 實現rwkv大語言模型的快取機制
+- 實現rwkv大語言模型的快取機制 -> [github](https://github.com/yan-930521/RWKVserver)
 - 基於RWKV 7B / 3B的多功能人工智慧助理 - 櫻氏(嵌入在core bot內)
 - 基於中文LlaMA的多功能人工智慧助理 - 櫻氏(嵌入在core bot內)
 - 3D vtuber驅動器(use three.js and electron.js)
@@ -48,7 +48,7 @@ GitHub：
 
 ---
 
-Replit：
+Replit：(主要是高中初學時的作品)
 - https://replit.com/@yan930521
 - https://replit.com/@sakuraEINFACH
 - https://replit.com/@CoreTW
@@ -56,19 +56,19 @@ Replit：
 
 ---
 
-### Goal
+### future Goal
+1.  希望能整合所學，打造出結合物聯網的人工智慧虛擬助理
+    - UI或許會使用到Live2d / 3D 技術來顯示
+    - 以文字來進行交互，透過LLM來決策應該執行的任務
+    - 架構要具有高度的自由性，能輕易的追加功能
+    - 語氣人性化
+1.  希望能打造一個龐大的開放世界 (對，就是[SAO](https://zh.wikipedia.org/zh-tw/%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F))
 
-希望能整合所學，打造出結合物聯網的人工智慧虛擬助理
 
-- UI或許會使用到Live2d技術來顯示
-- 以文字來進行交互，透過人工智慧來決策應該執行的任務
-- 訊息的傳輸要經過加密
-- 架構要具有高度的自由性，能輕易的追加功能
-- 人性化
 
 ### 其他
 #### 備審/專案介紹
-之前做的備審(5千多觀看次數OAO)<br>
+之前做的高中備審(5千多觀看次數OAO)<br>
 => https://hackmd.io/@yan-0521/學習樹
 
 #### github profile
@@ -78,8 +78,7 @@ Replit：
 
 #### 開放委託的種類
 - discord bot
-- minecraft bot
-- minecraft plugin
+- minecraft bot / plugin
 - 前後端網站製作
 - chrome 擴充功能
 - windows 應用程式
@@ -89,5 +88,4 @@ Replit：
 #### Special thanks
 
 ###### 感謝 hsiang 先生願意花時間和我一起研究License相關的問題
-
 ###### 感謝 Hello Phone 幫助我取得 sakura-tw.tk(目前還只是空殼)
