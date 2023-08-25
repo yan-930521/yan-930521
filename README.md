@@ -3,7 +3,7 @@
 
 <font color="#d89696">**夢想，是我邁向未來的原動力**</font><br>
 `Dreams are my driving force towards the future`<br><br>
-18歲，就讀 台中教育大學 資訊工程學系<br>
+19歲，就讀 台中教育大學 資訊工程學系<br>
 偶爾會接一些朋友、或他們介紹的案子
 
 平時的興趣：唱日文歌、畫畫、小說、動漫、排球......等<br>
@@ -72,9 +72,7 @@ Replit：(主要是高中初學時的作品)
 => https://hackmd.io/@yan-0521/學習樹
 
 #### github profile
-<img align="center" src="https://metrics.lecoq.io/yan-930521">
-
-[watch more](https://metrics.lecoq.io/about/yan-930521)
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
 #### 開放委託的種類
 - discord bot
