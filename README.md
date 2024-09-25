@@ -3,7 +3,7 @@
 
 <font color="#d89696">**夢想，是我邁向未來的原動力**</font><br>
 `Dreams are my driving force towards the future`<br><br>
-19歲，就讀 台中教育大學 資訊工程學系<br>
+20歲，就讀某大學 資訊工程學系<br>
 偶爾會接一些朋友、或他們介紹的案子
 
 平時的興趣：唱日文歌、畫畫、小說、動漫、排球......等<br>
