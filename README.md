@@ -31,7 +31,7 @@ Javascript / node.js / typescript、C/C++、Python、Java、C# ......<br>
 
 ---
 ### Recent Projects
-- Proj.tws v2 基於langgraph
+- Proj.Nova 基於Langgraph多代理架構與 LLM 助理系統建構，涵蓋人格扮演、Rewoo 知識問答、LATS 任務規劃。
 - Proj.tws 基於多種大語言模型的個人助理
 - [桌面助理 Assistant](https://github.com/yan-930521/Assistant)
 - 實現rwkv大語言模型的快取機制 -> [github](https://github.com/yan-930521/RWKVserver)
