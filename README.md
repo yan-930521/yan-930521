@@ -1,46 +1,93 @@
-# 櫻2   <img src="https://komarev.com/ghpvc/?username=yan-930521&label=VIEWS&style=flat&color=5F9EA0"><br>
+# 櫻2
 
-<font color="#d89696">`Dreams are my driving force towards the future`</font><br>
+AI Agent Systems / LLM Applications / Bots & Modding
 
-擅長語言<br>
-Typescript(Javascript / Node.js) 、C/C++、Python、Java<br>
-<br>
-實作領域：
-- 人工智慧(強化學習、深度學習、語意辨識...... )
-- Bot / Plugin( discord bot、minecraft bot )
-- 網站開發
-- AIOT
-- windows app開發
-- chrome 擴充功能開發
+Building long-term agent-based AI systems, multi-agent workflows, and interactive applications with TypeScript.
 
-歡迎和我一起討論相關的技術<br>
-=> DC: tw.sakura<br>
-=> IG: tw.sakura
+<img src="https://komarev.com/ghpvc/?username=yan-930521&label=VIEWS&style=flat&color=5F9EA0">
 
 ---
-### Recent Projects
-- Proj.Nova 基於Langgraph多代理架構與 LLM 助理系統建構，涵蓋人格扮演、Rewoo 知識問答、LATS 任務規劃等。
-- [桌面助理 Assistant](https://github.com/yan-930521/Assistant)
-- 實現rwkv大語言模型的快取機制 -> [github](https://github.com/yan-930521/RWKVserver)
-- 基於中文LlaMA / RWKV 7B / 3B的多功能人工智慧助理
-- 3D vtuber驅動器(use three.js and electron.js)
-- live2d background chrome extension
-- and more...
+
+### Current Focus
+
+- Multi-Agent Architecture
+- Long-term Memory Systems
+- LLM Orchestration
+- AI Companion Systems
+- Minecraft Modding (NeoForge)
+- Intelligent Bot Systems
+
+---
+
+### Tech Stack
+
+- Typescript / Node.js
+- LangGraph / Agentic Workflows
+- LLM Integration
+- Vector Database / Retrieval Systems
+- Electron / Three.js
+- Discord Bots / Minecraft Bots
+- Minecraft Modding (NeoForge)
+- Chrome Extension Development
+- AIOT / Windows Applications
+
+---
+
+### Featured Projects
+
+#### Proj.Nova
+Multi-agent AI system built with LangGraph, featuring orchestration, memory evolution, role-based agents, autonomous task planning, and long-term interaction mechanisms.
+
+#### [Assistant](https://github.com/yan-930521/Assistant)
+Desktop AI assistant application integrating interactive UI, agent workflows, and LLM-based utilities.
+
+#### [RWKVserver](https://github.com/yan-930521/RWKVserver)
+RWKV large language model server implementation with KV cache optimization and inference workflow design.
+
+#### AI Assistant Systems
+Built multiple Chinese LLM assistant systems based on LLaMA / RWKV 7B / 3B models with roleplay, memory, and knowledge integration capabilities.
+
+#### 3D VTuber Driver
+Real-time VTuber driver system built with Three.js and Electron.js.
+
+#### Live2D Chrome Extension
+Interactive Live2D background extension for Chrome.
+
+---
+
+### Interests
+
+Interested in AI systems that can evolve, remember, and collaborate through long-term interaction.
+
+I enjoy building systems that combine intelligence, persistence, personality, and autonomy.
+
+---
+
+### Contact
+
+- Discord: `tw.sakura`
+- Instagram: `yan._._.0521`
+
+Feel free to discuss AI systems, agent architecture, bots, modding, or experimental ideas with me.
 
 ---
 
 ### Others
+
 #### 高中備審
-之前做的高中備審(不知不覺快破7千觀看次數OAO)<br>
-=> https://hackmd.io/@yan-0521/學習樹
+
+以前整理的學習歷程筆記，目前意外累積了不少觀看數。
+現在回頭看多少會覺得有點青澀，但還是保留著，當作早期紀錄。
+
+- https://hackmd.io/@yan-0521/學習樹
 
 ---
 
-#### 委託
-- agent 開發
-- discord / line bot , minecraft bot / plugin
-- 前後端網站製作
-- chrome 擴充功能
-- Live2d sdk 應用
+### Commissions
 
----
+- AI Agent Development
+- Discord / LINE Bots
+- Minecraft Bots / NeoForge Mods
+- Fullstack Web Development
+- Chrome Extensions
+- Live2D SDK Applications
