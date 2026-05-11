@@ -2,7 +2,7 @@
 
 AI Agent Systems / LLM Applications / Bots & Modding
 
-Building long-term agent-based AI systems, multi-agent workflows, and interactive applications with TypeScript.
+Building long-term agent-based AI systems, multi-agent workflows, and interactive applications.
 
 <img src="https://komarev.com/ghpvc/?username=yan-930521&label=VIEWS&style=flat&color=5F9EA0">
 
