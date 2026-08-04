@@ -1,4 +1,4 @@
-# 櫻2 (SakuraTw2)
+# 櫻2 (SakuraTw)
 
 Building runtime infrastructure for long-term AI agents with memory, planning, and embodied interaction.
 
