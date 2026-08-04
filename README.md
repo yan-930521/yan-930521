@@ -1,8 +1,8 @@
-# 櫻2
+# 櫻2 (SakuraTw2)
 
-AI Agent Systems / LLM Applications / Bots & Modding
+Building runtime infrastructure for long-term AI agents with memory, planning, and embodied interaction.
 
-Building long-term agent-based AI systems, multi-agent workflows, and interactive applications.
+> Building AI that can remember, plan, and evolve over time.
 
 <img src="https://komarev.com/ghpvc/?username=yan-930521&label=VIEWS&style=flat&color=5F9EA0">
 
@@ -10,42 +10,32 @@ Building long-term agent-based AI systems, multi-agent workflows, and interactiv
 
 ### Current Focus
 
-- Multi-Agent Architecture
-- Long-term Memory Systems
-- LLM Orchestration
-- AI Companion Systems
-- Minecraft Modding (NeoForge)
-- Intelligent Bot Systems
+- Agent Runtime Design
+- Multi-Agent Systems
+- Long-term Memory
+- Embodied AI
+- Minecraft AI & NeoForge
 
 ---
 
 ### Tech Stack
 
-- Typescript / Node.js
-- LangGraph / Agentic Workflows
-- LLM Integration
-- Vector Database / Retrieval Systems
+- TypeScript / Bun / Node.js
+- LangChain / LangGraph / Agentic Workflows
 - Electron / Three.js
-- Discord Bots / Minecraft Bots
-- Minecraft Modding (NeoForge)
-- Chrome Extension Development
-- AIOT / Windows Applications
+- NeoForge / Minecraft Bots
+- Discord Bots
+- Chrome Extensions
 
 ---
 
 ### Featured Projects
 
-#### Proj.Nova
-Multi-agent AI system built with LangGraph, featuring orchestration, memory evolution, role-based agents, autonomous task planning, and long-term interaction mechanisms.
-
-#### [Assistant](https://github.com/yan-930521/Assistant)
-Desktop AI assistant application integrating interactive UI, agent workflows, and LLM-based utilities.
+#### [SuperNova](https://github.com/yan-930521/SuperNova)
+Event-driven Agent Runtime for long-term AI systems with persistent state, task orchestration, and multi-agent execution.
 
 #### [RWKVserver](https://github.com/yan-930521/RWKVserver)
-RWKV large language model server implementation with KV cache optimization and inference workflow design.
-
-#### AI Assistant Systems
-Built multiple Chinese LLM assistant systems based on LLaMA / RWKV 7B / 3B models with roleplay, memory, and knowledge integration capabilities.
+High-performance RWKV inference server with KV cache optimization for long-context inference.
 
 #### 3D VTuber Driver
 Real-time VTuber driver system built with Three.js and Electron.js.
@@ -55,39 +45,20 @@ Interactive Live2D background extension for Chrome.
 
 ---
 
-### Interests
-
-Interested in AI systems that can evolve, remember, and collaborate through long-term interaction.
-
-I enjoy building systems that combine intelligence, persistence, personality, and autonomy.
-
----
-
 ### Contact
 
 - Discord: `tw.sakura`
 - Instagram: `yan._._.0521`
 
-Feel free to discuss AI systems, agent architecture, bots, modding, or experimental ideas with me.
-
----
-
-### Others
-
-#### 高中備審
-
-以前整理的學習歷程筆記，目前意外累積了不少觀看數。
-現在回頭看多少會覺得有點青澀，但還是保留著，當作早期紀錄。
-
-- https://hackmd.io/@yan-0521/學習樹
+Feel free to discuss AI agents, runtime design, embodied AI, Minecraft, or experimental ideas.
 
 ---
 
 ### Commissions
 
 - AI Agent Development
-- Discord / LINE Bots
-- Minecraft Bots / NeoForge Mods
-- Fullstack Web Development
+- Discord Bots
+- Minecraft NeoForge Mods
 - Chrome Extensions
-- Live2D SDK Applications
+- Full-stack Web Applications
+- Live2D SDK Integration
