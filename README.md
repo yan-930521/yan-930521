@@ -37,10 +37,10 @@ Event-driven Agent Runtime for long-term AI systems with persistent state, task 
 #### [RWKVserver](https://github.com/yan-930521/RWKVserver)
 High-performance RWKV inference server with KV cache optimization for long-context inference.
 
-#### 3D VTuber Driver
+#### [3D VTuber Driver](https://github.com/yan-930521/vtuberfordesktop)
 Real-time VTuber driver system built with Three.js and Electron.js.
 
-#### Live2D Chrome Extension
+#### [Live2D Chrome Extension](https://github.com/yan-930521/live2d-extension)
 Interactive Live2D background extension for Chrome.
 
 ---
