@@ -1,17 +1,44 @@
-name: Metrics
-on:
-  # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
-  workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
-  push: {branches: ["master", "main"]}
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
+    name: Metrics
+    
+    on:
+      # 每天半夜自動更新一次
+      schedule: [{cron: "0 0 * * *"}]
+      # 允許你手動點擊執行
+      workflow_dispatch:
+      # 當你 Push 更新到 master/main 分支時也會觸發
+      push: {branches: ["master", "main"]}
+    
+    jobs:
+      github-metrics:
+        runs-on: ubuntu-latest
+        permissions:
+          contents: write
+          
+        steps:
+          # 第一個產出：基礎數據 (預設檔名為 github-metrics.svg)
+          - name: Default metrics
+            uses: lowlighter/metrics@latest
+            with:
+              token: ${{ secrets.METRICS_TOKEN }}
+
+          # 第二個產出：常用語言比例 (指定檔名為 metrics.plugin.languages.svg)
+          - name: Most used languages
+            uses: lowlighter/metrics@latest
+            with:
+              filename: metrics.plugin.languages.svg
+              token: ${{ secrets.METRICS_TOKEN }}
+              base: ""
+              plugin_languages: yes
+              plugin_languages_indepth: yes
+              # 請記得把下面這行的名字跟信箱換成你自己的 GitHub 資訊
+              commits_authoring: firstname lastname, username, username@users.noreply.github.com
+
+          # 第三個產出：全年行事曆 (指定檔名為 metrics.plugin.isocalendar.fullyear.svg)
+          - name: Full-year calendar
+            uses: lowlighter/metrics@latest
+            with:
+              filename: metrics.plugin.isocalendar.fullyear.svg
+              token: ${{ secrets.METRICS_TOKEN }}
+              base: ""
+              plugin_isocalendar: yes
+              plugin_isocalendar_duration: full-year
