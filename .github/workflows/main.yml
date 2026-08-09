@@ -30,6 +30,7 @@
               base: ""
               plugin_languages: yes
               plugin_languages_indepth: yes
+              plugin_languages_skipped: javascript, html, css
               # 請記得把下面這行的名字跟信箱換成你自己的 GitHub 資訊
               commits_authoring: yan-930521, yan930521@gmail.com, yan-930521@users.noreply.github.com
 
