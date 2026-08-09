@@ -54,6 +54,10 @@ Feel free to discuss AI agents, runtime design, embodied AI, Minecraft, or exper
 
 ---
 
+<p align="center">
+      <img src="./github-metrics.svg" width="600">
+    </p>
+
 ### Commissions
 
 - AI Agent Development
