@@ -54,8 +54,10 @@ Feel free to discuss AI agents, runtime design, embodied AI, Minecraft, or exper
 
 ---
 
-<p align="left">
-      <img src="./github-metrics.svg" width="30%">
+ <p align="left">
+      <img src="./github-metrics.svg" width="30%" alt="Metrics">
+      <img src="./metrics.plugin.languages.svg" width="30%" alt="Languages">
+      <img src="./metrics.plugin.isocalendar.fullyear.svg" width="30%" alt="Calendar">
 </p>
 
 ### Commissions
